@@ -31,8 +31,8 @@ namespace API.Controllers
             return await _context.Products.FindAsync(id);
         }
         
-        [HttpPost]
         
+
 
 
     }
