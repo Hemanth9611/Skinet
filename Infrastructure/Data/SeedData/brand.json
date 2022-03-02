@@ -1,0 +1,22 @@
+[
+    {
+        "Id": 1,
+        "Name":"Angular"
+    },
+    {
+        "Id": 2,
+        "Name":"React"
+    },
+    {
+        "Id": 3,
+        "Name":"NetCore"
+    },
+    {
+        "Id": 4,
+        "Name":"TypeScript"
+    },
+    {
+        "Id": 5,
+        "Name":"VsCode"
+    }
+]
