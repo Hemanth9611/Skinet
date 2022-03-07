@@ -1,6 +1,6 @@
 [
     {
-      "Name": "Angular Speedstar board 2000",
+      "Name": "T-Shirts",
       "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "Price": 200,
       "PictureUrl": "images/products/sb-ang1.png",
@@ -8,35 +8,35 @@
       "ProductBrandId": 1
     },
     {
-        "Name": "React Speedstar board 3000",
+        "Name": "Shoes",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Price": 200,
         "PictureUrl": "images/products/sb-rec2.png",
-        "ProductTypeId":1 ,
-        "ProductBrandId": 1
+        "ProductTypeId":2,
+        "ProductBrandId":2
     },
     {
-        "Name": "NetCore Speedstar board 4000",
+        "Name": "Jeans",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Price": 200,
         "PictureUrl": "images/products/sb-netc3.png",
-        "ProductTypeId":1 ,
-        "ProductBrandId": 1
+        "ProductTypeId":3 ,
+        "ProductBrandId": 3
     },
     {
-        "Name": "TypeScript Speedstar board 5000",
+        "Name": "Crocs",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Price": 200,
         "PictureUrl": "images/products/sb-tps4.png",
-        "ProductTypeId":1,
-        "ProductBrandId": 1
+        "ProductTypeId":4,
+        "ProductBrandId": 4
     },
     {
-        "Name": "VsCode Speedstar board 6000",
+        "Name": "Trousers",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Price": 200,
         "PictureUrl": "images/products/sb-vsc5.png",
-        "ProductTypeId": 1 ,
-        "ProductBrandId": 1
+        "ProductTypeId": 5 ,
+        "ProductBrandId": 5
     }
   ]
