@@ -2,7 +2,7 @@
     {
       "Name": "T-Shirts",
       "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Price": 200,
+      "Price": 250,
       "PictureUrl": "images/products/sb-ang1.png",
       "ProductTypeId":1 ,
       "ProductBrandId": 1
@@ -10,7 +10,7 @@
     {
         "Name": "Shoes",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Price": 200,
+        "Price": 780,
         "PictureUrl": "images/products/sb-rec2.png",
         "ProductTypeId":2,
         "ProductBrandId":2
@@ -18,7 +18,7 @@
     {
         "Name": "Jeans",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Price": 200,
+        "Price": 800,
         "PictureUrl": "images/products/sb-netc3.png",
         "ProductTypeId":3 ,
         "ProductBrandId": 3
@@ -26,7 +26,7 @@
     {
         "Name": "Crocs",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Price": 200,
+        "Price": 1200,
         "PictureUrl": "images/products/sb-tps4.png",
         "ProductTypeId":4,
         "ProductBrandId": 4
@@ -34,7 +34,7 @@
     {
         "Name": "Trousers",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Price": 200,
+        "Price": 650,
         "PictureUrl": "images/products/sb-vsc5.png",
         "ProductTypeId": 5 ,
         "ProductBrandId": 5
