@@ -1,22 +1,22 @@
 [
     {
         "Id": 1,
-        "Name":"Boards"
+        "Name":"Sweatshirts"
     },
     {
         "Id": 2,
-        "Name":"Hats"
+        "Name":"Shoes"
     },
     {
         "Id": 3,
-        "Name":"Boots"
+        "Name":"T-Shirts"
     },
     {
         "Id": 4,
-        "Name":"Gloves"
+        "Name":"Causal Shirts"
     },
     { 
         "Id":5,
-        "Name":"Shoes"
+        "Name":"Smart Watchs"
     }
 ]

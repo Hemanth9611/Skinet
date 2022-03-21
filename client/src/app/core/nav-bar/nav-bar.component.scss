@@ -4,15 +4,17 @@
     min-width: 25px;
     border-radius: 50%;
     font-size: 1em;
-    background:rgb(102, 102, 121);
+    background:rgb(102, 102, 187);
     color: white;
     text-align: center;
     top: -1px;
     right: 11px;
+    flex-direction: column;
 }
 .btn {
-    margin: 10px 10px 10px 0;
+    margin: 11px 11px 9px 0;
   }
   .fa{
-    margin: 9px 20px 10px 0;
+    margin: 12px 20px 8px 0;
   }
+  

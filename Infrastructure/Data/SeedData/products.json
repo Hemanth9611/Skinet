@@ -1,42 +1,258 @@
 [
     {
-      "Name": "T-Shirts",
+      "Name": "Sweat Shirts",
       "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "Price": 250,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "images/products/sweatshirt1.png",
       "ProductTypeId":1 ,
       "ProductBrandId": 1
     },
     {
-        "Name": "Shoes",
+        "Name": "Sweat Shirts",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Price": 780,
-        "PictureUrl": "images/products/sb-rec2.png",
-        "ProductTypeId":2,
-        "ProductBrandId":2
+        "PictureUrl": "images/products/sweatshirt2.png",
+        "ProductTypeId":1,
+        "ProductBrandId":1
     },
     {
-        "Name": "Jeans",
+        "Name": "Sweat Shirts",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Price": 800,
-        "PictureUrl": "images/products/sb-netc3.png",
-        "ProductTypeId":3 ,
-        "ProductBrandId": 3
+        "PictureUrl": "images/products/sweatshirt3.png",
+        "ProductTypeId":1 ,
+        "ProductBrandId": 1
     },
+
     {
-        "Name": "Crocs",
+        "Name": "Sweat Shirts",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Price": 1200,
-        "PictureUrl": "images/products/sb-tps4.png",
-        "ProductTypeId":4,
-        "ProductBrandId": 4
+        "PictureUrl": "images/products/sweatshirt4.png",
+        "ProductTypeId":1,
+        "ProductBrandId": 1
     },
+    
     {
-        "Name": "Trousers",
+        "Name": "Sweat Shirts",
         "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Price": 650,
-        "PictureUrl": "images/products/sb-vsc5.png",
-        "ProductTypeId": 5 ,
+        "PictureUrl": "images/products/sweatshirt5.png",
+        "ProductTypeId": 1 ,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Sweat Shirts",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Price": 1200,
+        "PictureUrl": "images/products/sweatshirt6.png",
+        "ProductTypeId":1,
+        "ProductBrandId": 1
+    },
+
+
+    {
+        "Name": "shirt",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Price": 250,
+        "PictureUrl": "images/products/shirt1.png",
+        "ProductTypeId":4 ,
+        "ProductBrandId": 4
+      },
+      {
+          "Name": "shirt",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 780,
+          "PictureUrl": "images/products/shirt2.png",
+          "ProductTypeId":4,
+          "ProductBrandId":4
+      },
+      {
+          "Name": "shirt",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 800,
+          "PictureUrl": "images/products/shirt3.png",
+          "ProductTypeId":4 ,
+          "ProductBrandId": 4
+      },
+  
+      {
+          "Name": "shirt",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 1200,
+          "PictureUrl": "images/products/shirt4.png",
+          "ProductTypeId":4,
+          "ProductBrandId": 4
+      },
+      
+      {
+          "Name": "shirt",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 650,
+          "PictureUrl": "images/products/shirt5.png",
+          "ProductTypeId": 4 ,
+          "ProductBrandId": 4
+      },
+      {
+          "Name": "shirt",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 1200,
+          "PictureUrl": "images/products/shirt6.png",
+          "ProductTypeId":4,
+          "ProductBrandId": 4
+      },
+      {
+        "Name": "tshirt",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Price": 250,
+        "PictureUrl": "images/products/tshirt1.png",
+        "ProductTypeId":3 ,
+        "ProductBrandId": 3
+      },
+      {
+          "Name": "tshirt",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 780,
+          "PictureUrl": "images/products/tshirt2.png",
+          "ProductTypeId":3,
+          "ProductBrandId":3
+      },
+      {
+          "Name": "tshirt",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 800,
+          "PictureUrl": "images/products/tshirt3.png",
+          "ProductTypeId":3 ,
+          "ProductBrandId": 3
+      },
+  
+      {
+          "Name": "tshirt",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 1200,
+          "PictureUrl": "images/products/tshirt4.png",
+          "ProductTypeId":3,
+          "ProductBrandId": 3
+      },
+      
+      {
+          "Name": "tshirt",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 650,
+          "PictureUrl": "images/products/tshirt5.png",
+          "ProductTypeId": 3 ,
+          "ProductBrandId": 3
+      },
+      {
+          "Name": "tshirt",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 1200,
+          "PictureUrl": "images/products/tshirt6.png",
+          "ProductTypeId":3,
+          "ProductBrandId":3
+      },
+
+      {
+        "Name": "watch",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Price": 250,
+        "PictureUrl": "images/products/watch1.png",
+        "ProductTypeId":5,
         "ProductBrandId": 5
-    }
+      },
+      {
+          "Name": "watch",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 780,
+          "PictureUrl": "images/products/watch2.png",
+          "ProductTypeId":5,
+          "ProductBrandId":5
+      },
+      {
+          "Name": "watch",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 800,
+          "PictureUrl": "images/products/watch3.png",
+          "ProductTypeId":5 ,
+          "ProductBrandId": 5
+      },
+  
+      {
+          "Name": "watch",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 1200,
+          "PictureUrl": "images/products/watch4.png",
+          "ProductTypeId":5,
+          "ProductBrandId": 5
+      },
+      
+      {
+          "Name": "watch",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 650,
+          "PictureUrl": "images/products/watch5.png",
+          "ProductTypeId": 5,
+          "ProductBrandId": 5
+      },
+      {
+          "Name": "watch",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 1200,
+          "PictureUrl": "images/products/watch6.png",
+          "ProductTypeId":5,
+          "ProductBrandId": 5
+      },
+
+      {
+        "Name": "shoes",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Price": 250,
+        "PictureUrl": "images/products/shoes1.png",
+        "ProductTypeId":2,
+        "ProductBrandId": 2
+      },
+      {
+          "Name": "shoes",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 780,
+          "PictureUrl": "images/products/shoes2.png",
+          "ProductTypeId":2,
+          "ProductBrandId":2
+      },
+      {
+          "Name": "shoes",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 800,
+          "PictureUrl": "images/products/shoes3.png",
+          "ProductTypeId":2,
+          "ProductBrandId": 2
+      },
+  
+      {
+          "Name": "shoes",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 1200,
+          "PictureUrl": "images/products/shoes4.png",
+          "ProductTypeId":2,
+          "ProductBrandId": 2
+      },
+      
+      {
+          "Name": "shoes",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 650,
+          "PictureUrl": "images/products/shoes5.png",
+          "ProductTypeId": 2,
+          "ProductBrandId": 2
+      },
+      {
+          "Name": "shoes",
+          "Description": "Lorem ipsum dolor sit amet consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Price": 1200,
+          "PictureUrl": "images/products/shoes6.png",
+          "ProductTypeId":2,
+          "ProductBrandId": 2
+      }
+
   ]
+
