@@ -29,7 +29,9 @@
 //     opacity: 0;
 //     transition: all 0.5s;
 // }
-
+.card{
+    width: 221px;
+}
 
 .btn {
     width: 30%;
@@ -43,7 +45,7 @@
         transform: none;
         opacity: 1;
     }
-    height: '80%';
+    height: '50%';
 }
 
 .hover-overlay {
@@ -68,8 +70,8 @@
 }
 
 .img{
-    height: 300px;
-    width: 259px;
+    height: 280px;
+    width: 220px;
 }
 //  .img-ctr {
 //      height:'80%';
