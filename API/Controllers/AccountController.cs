@@ -27,15 +27,12 @@ namespace API.Controllers
             _tokenService = tokenService;
             _signInManager = signInManager;
             _userManager = userManager;
-
         }
 
-        [Authorize]
+       [Authorize]
         [HttpGet]
         public async Task<ActionResult<UserDto>> GetCurrentUser()
         {
-            // var email = User.FindFirstValue(ClaimTypes.Email);
-
             var user = await _userManager.FindByEmailFromClaimsPrinciple(HttpContext.User);
 
             return new UserDto
@@ -59,7 +56,6 @@ namespace API.Controllers
         public async Task<ActionResult<AddressDto>> GetUserAddress()
         {
 
-            //  var email = User.FindFirstValue(ClaimTypes.Email);
 
             var user = await _userManager.FindByUserByClaimsPrincipleWithAddressAsync
             (HttpContext.User);
@@ -105,6 +101,12 @@ namespace API.Controllers
         public async Task<ActionResult<UserDto>> Resgister(RegisterDto
         registerDto)
         {
+            if(CheckEmailExistsAsync(registerDto.Email).Result.Value)
+            {
+                return new BadRequestObjectResult(new ApiValidationErrorResponse{Errors =new [] 
+                {"Email address already exists"}});
+            }
+            
             var user = new AppUser
             {
                 DisplayName = registerDto.DisplayName,
