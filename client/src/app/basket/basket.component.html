@@ -64,7 +64,7 @@
                     </th>
                     <td class="align-middle">
                       <strong>
-                        {{ item.price | currency: 'INR'}}
+                        {{ item.price | currency}}
                       </strong>
                     </td>
                     <td class="align-middle">
@@ -82,7 +82,7 @@
                     </td>
                     <td class="align-middle">
                       <strong
-                        >{{ item.price * item.quantity | currency: 'INR' }}
+                        >{{ item.price * item.quantity | currency}}
                       </strong>
                     </td>
                     <td class="align-middle text-center">
